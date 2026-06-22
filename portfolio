@@ -1,0 +1,14 @@
+portfolio
+├─ videos（放2个视频）
+│  视频1-嘉士利.mp4
+│  视频2-文旅短片.mp4
+├─ pdfs（放3个PDF）
+│  pdf1-蜜雪冰城.pdf
+│  pdf2-辉山白桦.pdf
+│  pdf3-广州文旅.pdf
+└─ images（所有封面图）
+   video-cover-1.jpg
+   video-cover-2.jpg
+   pdf-cover-1.jpg
+   pdf-cover-2.jpg
+   pdf-cover-3.jpg
